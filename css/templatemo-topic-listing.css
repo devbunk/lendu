@@ -1072,7 +1072,7 @@ blockquote {
   }
   
   .navbar {
-    background-color: var(--secondary-color);
+    background-color: linear-gradient(15deg, #13547a 0%, #ff8c005e 100%);
   }
 
   .navbar-nav .dropdown-menu {
@@ -1087,6 +1087,7 @@ blockquote {
 
   .navbar-expand-lg .navbar-nav {
     padding-bottom: 20px;
+    background-color: #ffffff;
   }
 
   .navbar-expand-lg .navbar-nav .nav-link {
